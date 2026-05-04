@@ -8,7 +8,7 @@
   "server": {
     "ip": "polarfigger.aternos.me",
     "port": 29388,
-    "version": "",
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
