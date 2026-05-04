@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "polarfigger.aternos.me:29388",
+    "ip": "polarfigger.aternos.me",
     "port": 29388,
     "version": "",
     "try-creative": false
